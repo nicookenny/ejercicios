@@ -1,0 +1,8 @@
+Ejercicio 1
+Escribir un algoritmo que imprima los numeros del 1 al 100, con la condicion que si el numero a imprimir es multiplo de 3, imprima el string 'Fizz', si el numero es multiplo de 5 imprima: 'Buzz', y si es multiplo de ambos imprima: 'FizzBuzz'
+
+Ejercicio 2
+Escribir un algoritmo que encuentre el máximo y el minímo número dentro de una lista de números enteros (desordenados).
+
+Ejercicio 3
+Escribir un algoritmo que, dada una lista de números ordenados y un número N, te devuelva VERDADERO si alguna combinación de dos números cualesquiera suman N, y devuelva FALSO si ninguna combinación de dos números sumados da como resultado el número N.
